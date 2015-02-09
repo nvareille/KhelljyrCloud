@@ -1,7 +1,7 @@
 #ifndef IMG_H_
 # define IMG_H_
 
-# include "../MemoryManager/MemoryManager.h"
+# include "MemoryManager.h"
 
 /**
  * This structure describes an Image. It contains it's position and data.

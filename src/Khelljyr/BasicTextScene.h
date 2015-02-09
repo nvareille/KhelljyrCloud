@@ -2,7 +2,7 @@
 # define BASICTEXTSCENE_H_
 
 # include <pebble.h>
-# include "../Graphic.h"
+# include "Graphic.h"
 
 /**
  * Create a scrolling text layer. The layer will destroy itself automaticaly. You may destroy it with window_stack_pop.

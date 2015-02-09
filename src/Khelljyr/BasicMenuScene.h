@@ -3,7 +3,7 @@
 
 # include <pebble.h>
 
-# include "../Graphic.h"
+# include "Graphic.h"
 
 /**
  * Creates a basic menu and push it on the graphic stack

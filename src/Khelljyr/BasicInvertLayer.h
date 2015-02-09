@@ -2,8 +2,8 @@
 # define BASICINVERTEDLAYER_H_
 
 # include <pebble.h>
-# include "../../MemoryManager/MemoryManager.h"
-# include "../GraphicStack.h"
+# include "MemoryManager.h"
+# include "GraphicStack.h"
 
 typedef struct	s_InvertLayer
 {

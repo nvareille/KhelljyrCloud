@@ -3,13 +3,13 @@
 
 # include <pebble.h>
 
-# include "MemoryManager/MemoryManager.h"
-# include "Graphic/Graphic.h"
-# include "Img/Img.h"
-# include "Utils/Utils.h"
-# include "Debug/Debug.h"
-# include "MessageManager/MessageManager.h"
-# include "Timer/Timer.h"
+# include "MemoryManager.h"
+# include "Graphic.h"
+# include "Img.h"
+# include "Utils.h"
+# include "Debug.h"
+# include "MessageManager.h"
+# include "Timer.h"
 
 /**
  * A macro returning the user data given in app_init.

@@ -3,7 +3,7 @@
 
 # include <pebble.h>
 
-# include "../MemoryManager/MemoryManager.h"
+# include "MemoryManager.h"
 
 /**
  * A container for callbacks

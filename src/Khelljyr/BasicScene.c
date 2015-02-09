@@ -1,7 +1,5 @@
 #include "BasicScene.h"
 
-# include "../../Debug/Debug.h"
-
 static void	free_layer(void *data)
 {
   layer_destroy(data);

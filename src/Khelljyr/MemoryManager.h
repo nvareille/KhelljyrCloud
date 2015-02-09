@@ -3,7 +3,7 @@
 
 # include <pebble.h>
 
-# include "../Scopper/Scopper.h"
+# include "Scopper.h"
 
 /**
  * A container for given pointers to keep them for cleaning by the MemoryManager

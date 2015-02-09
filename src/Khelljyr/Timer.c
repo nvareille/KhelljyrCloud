@@ -1,7 +1,5 @@
 #include "Timer.h"
 
-# include "../Debug/Debug.h"
-
 bool		timer_reschedule(Timer *timer, uint32_t ms)
 {
   timer->ms = ms;

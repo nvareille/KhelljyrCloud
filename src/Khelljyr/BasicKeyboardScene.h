@@ -2,10 +2,10 @@
 # define BASICKEYBOARDSCENE_H_
 
 # include <pebble.h>
-# include "../../MemoryManager/MemoryManager.h"
-# include "../../Utils/Utils.h"
-# include "../BasicScene/BasicScene.h"
-# include "../BasicInvertLayer/BasicInvertLayer.h"
+# include "MemoryManager.h"
+# include "Utils.h"
+# include "BasicScene.h"
+# include "BasicInvertLayer.h"
 
 /**
  * A container for the cursor position for Keyboard

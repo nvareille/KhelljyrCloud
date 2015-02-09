@@ -3,9 +3,9 @@
 
 # include <pebble.h>
 
-# include "../../MemoryManager/MemoryManager.h"
-# include "../Graphic.h"
-# include "../GraphicStack.h"
+# include "MemoryManager.h"
+# include "Graphic.h"
+# include "GraphicStack.h"
 
 /**
  * Create a window that is handled by the MemoryManager

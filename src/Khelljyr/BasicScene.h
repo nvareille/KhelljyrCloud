@@ -3,8 +3,8 @@
 
 # include <pebble.h>
 
-# include "../BasicWindow/BasicWindow.h"
-# include "../Graphic.h"
+# include "BasicWindow.h"
+# include "Graphic.h"
 
 /**
  * Creates a blank screen where we can display anything
